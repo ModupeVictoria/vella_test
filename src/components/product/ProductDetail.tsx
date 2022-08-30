@@ -13,7 +13,7 @@ const ProductDetail: React.FC = () => {
     // This is used to update the store
     const dispatch = useDispatch();
     const cart = useSelector((state:any) => state?.cart?.value);
-    let myCart: any = cart.carts;
+    let myCart: any = cart;
     
     const newcart = cart
 
