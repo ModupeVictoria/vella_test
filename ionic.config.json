@@ -1,0 +1,7 @@
+{
+  "name": "vella-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
